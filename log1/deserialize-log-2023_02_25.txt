@@ -1,0 +1,212 @@
+2023-02-25T12:33:35.347044 | START 
+2023-02-25T12:33:35.362667 | обнаружен файл 1-2023_02_25_10-31-48-data.json 
+2023-02-25T12:33:35.362667 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.362667 | обнаружен файл 1-2023_02_25_10-32-17-data.json 
+2023-02-25T12:33:35.362667 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.362667 | обнаружен файл 1-2023_02_25_10-33-37-data.json 
+2023-02-25T12:33:35.362667 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.362667 | обнаружен файл 1-2023_02_25_10-50-19-data.json 
+2023-02-25T12:33:35.362667 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.378289 | обнаружен файл 1-2023_02_25_11-03-02-data.json 
+2023-02-25T12:33:35.378289 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.378289 | обнаружен файл 1-2023_02_25_11-29-40-data.json 
+2023-02-25T12:33:35.378289 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.378289 | обнаружен файл 1-2023_02_25_11-46-16-data.json 
+2023-02-25T12:33:35.378289 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.378289 | обнаружен файл 1-2023_02_25_11-59-06-data.json 
+2023-02-25T12:33:35.378289 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.384798 | обнаружен файл 1-2023_02_25_12-01-12-data.json 
+2023-02-25T12:33:35.384798 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.384798 | обнаружен файл 1-2023_02_25_12-01-58-data.json 
+2023-02-25T12:33:35.384798 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.384798 | обнаружен файл 1-2023_02_25_12-02-19-data.json 
+2023-02-25T12:33:35.384798 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.384798 | обнаружен файл 1-2023_02_25_12-21-53-data.json 
+2023-02-25T12:33:35.384798 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.384798 | обнаружен файл 1-2023_02_25_12-23-18-data.json 
+2023-02-25T12:33:35.384798 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.384798 | обнаружен файл 1-2023_02_25_12-25-02-data.json 
+2023-02-25T12:33:35.384798 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.384798 | обнаружен файл 1-2023_02_25_12-27-42-data.json 
+2023-02-25T12:33:35.384798 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.384798 | обнаружен файл 1-2023_02_25_12-27-47-data.json 
+2023-02-25T12:33:35.384798 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.384798 | обнаружен файл 1-2023_02_25_12-29-31-data.json 
+2023-02-25T12:33:35.384798 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.384798 | обнаружен файл 1-2023_02_25_12-30-05-data.json 
+2023-02-25T12:33:35.384798 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.400430 | обнаружен файл 1-2023_02_25_12-30-59-data.json 
+2023-02-25T12:33:35.400430 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.400430 | обнаружен файл 1-2023_02_25_12-31-56-data.json 
+2023-02-25T12:33:35.400430 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.400430 | обнаружен файл 1-2023_02_25_12-33-06-data.json 
+2023-02-25T12:33:35.400430 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.400430 | обнаружен файл 11-2023_02_25_10-32-42-data.json 
+2023-02-25T12:33:35.400430 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.400430 | обнаружен файл 11-2023_02_25_10-34-02-data.json 
+2023-02-25T12:33:35.400430 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.400430 | обнаружен файл 11-2023_02_25_12-28-12-data.json 
+2023-02-25T12:33:35.400430 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.400430 | обнаружен файл 11-2023_02_25_12-31-24-data.json 
+2023-02-25T12:33:35.400430 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.400430 | обнаружен файл 13-2023_02_25_10-32-47-data.json 
+2023-02-25T12:33:35.400430 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.400430 | обнаружен файл 13-2023_02_25_10-34-07-data.json 
+2023-02-25T12:33:35.400430 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.416054 | обнаружен файл 15-2023_02_25_10-32-52-data.json 
+2023-02-25T12:33:35.416054 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.416054 | обнаружен файл 15-2023_02_25_10-34-12-data.json 
+2023-02-25T12:33:35.416054 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.416054 | обнаружен файл 17-2023_02_25_10-32-57-data.json 
+2023-02-25T12:33:35.416054 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.416054 | обнаружен файл 17-2023_02_25_10-34-17-data.json 
+2023-02-25T12:33:35.416054 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.416054 | обнаружен файл 19-2023_02_25_10-33-02-data.json 
+2023-02-25T12:33:35.416054 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.416054 | обнаружен файл 19-2023_02_25_10-34-22-data.json 
+2023-02-25T12:33:35.416054 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.416054 | обнаружен файл 21-2023_02_25_10-33-07-data.json 
+2023-02-25T12:33:35.416054 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.416054 | обнаружен файл 21-2023_02_25_10-34-27-data.json 
+2023-02-25T12:33:35.416054 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.416054 | обнаружен файл 23-2023_02_25_10-33-12-data.json 
+2023-02-25T12:33:35.416054 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.431679 | обнаружен файл 23-2023_02_25_10-34-32-data.json 
+2023-02-25T12:33:35.431679 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.431679 | обнаружен файл 25-2023_02_25_10-34-37-data.json 
+2023-02-25T12:33:35.431679 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.431679 | обнаружен файл 3-2023_02_25_10-31-53-data.json 
+2023-02-25T12:33:35.431679 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.431679 | обнаружен файл 3-2023_02_25_10-32-22-data.json 
+2023-02-25T12:33:35.431679 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.431679 | обнаружен файл 3-2023_02_25_10-33-42-data.json 
+2023-02-25T12:33:35.431679 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.431679 | обнаружен файл 3-2023_02_25_10-50-24-data.json 
+2023-02-25T12:33:35.431679 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.431679 | обнаружен файл 3-2023_02_25_11-03-07-data.json 
+2023-02-25T12:33:35.431679 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.431679 | обнаружен файл 3-2023_02_25_11-29-45-data.json 
+2023-02-25T12:33:35.431679 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.431679 | обнаружен файл 3-2023_02_25_11-46-21-data.json 
+2023-02-25T12:33:35.447303 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.462930 | обнаружен файл 3-2023_02_25_11-59-11-data.json 
+2023-02-25T12:33:35.462930 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.462930 | обнаружен файл 3-2023_02_25_12-01-17-data.json 
+2023-02-25T12:33:35.462930 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.462930 | обнаружен файл 3-2023_02_25_12-02-03-data.json 
+2023-02-25T12:33:35.462930 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.462930 | обнаружен файл 3-2023_02_25_12-21-58-data.json 
+2023-02-25T12:33:35.462930 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.462930 | обнаружен файл 3-2023_02_25_12-23-23-data.json 
+2023-02-25T12:33:35.462930 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.462930 | обнаружен файл 3-2023_02_25_12-25-07-data.json 
+2023-02-25T12:33:35.462930 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.462930 | обнаружен файл 3-2023_02_25_12-27-52-data.json 
+2023-02-25T12:33:35.462930 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.462930 | обнаружен файл 3-2023_02_25_12-29-36-data.json 
+2023-02-25T12:33:35.462930 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.478551 | обнаружен файл 3-2023_02_25_12-30-10-data.json 
+2023-02-25T12:33:35.478551 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.478551 | обнаружен файл 3-2023_02_25_12-31-04-data.json 
+2023-02-25T12:33:35.478551 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.478551 | обнаружен файл 3-2023_02_25_12-32-01-data.json 
+2023-02-25T12:33:35.485058 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.485058 | обнаружен файл 3-2023_02_25_12-33-11-data.json 
+2023-02-25T12:33:35.485058 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.485058 | обнаружен файл 5-2023_02_25_10-31-58-data.json 
+2023-02-25T12:33:35.485058 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.485058 | обнаружен файл 5-2023_02_25_10-32-27-data.json 
+2023-02-25T12:33:35.485058 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.485058 | обнаружен файл 5-2023_02_25_10-33-47-data.json 
+2023-02-25T12:33:35.485058 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.485058 | обнаружен файл 5-2023_02_25_11-03-12-data.json 
+2023-02-25T12:33:35.485058 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.485058 | обнаружен файл 5-2023_02_25_11-29-50-data.json 
+2023-02-25T12:33:35.485058 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.485058 | обнаружен файл 5-2023_02_25_11-59-16-data.json 
+2023-02-25T12:33:35.485058 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.500689 | обнаружен файл 5-2023_02_25_12-01-22-data.json 
+2023-02-25T12:33:35.500689 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.500689 | обнаружен файл 5-2023_02_25_12-02-08-data.json 
+2023-02-25T12:33:35.500689 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.500689 | обнаружен файл 5-2023_02_25_12-22-03-data.json 
+2023-02-25T12:33:35.500689 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.500689 | обнаружен файл 5-2023_02_25_12-23-28-data.json 
+2023-02-25T12:33:35.500689 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.500689 | обнаружен файл 5-2023_02_25_12-27-57-data.json 
+2023-02-25T12:33:35.500689 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.500689 | обнаружен файл 5-2023_02_25_12-30-15-data.json 
+2023-02-25T12:33:35.500689 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.500689 | обнаружен файл 5-2023_02_25_12-31-09-data.json 
+2023-02-25T12:33:35.500689 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.500689 | обнаружен файл 5-2023_02_25_12-32-06-data.json 
+2023-02-25T12:33:35.500689 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.500689 | обнаружен файл 5-2023_02_25_12-33-16-data.json 
+2023-02-25T12:33:35.500689 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.516314 | обнаружен файл 7-2023_02_25_10-32-03-data.json 
+2023-02-25T12:33:35.516314 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.516314 | обнаружен файл 7-2023_02_25_10-32-32-data.json 
+2023-02-25T12:33:35.516314 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.516314 | обнаружен файл 7-2023_02_25_10-33-52-data.json 
+2023-02-25T12:33:35.516314 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.516314 | обнаружен файл 7-2023_02_25_11-03-17-data.json 
+2023-02-25T12:33:35.516314 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.516314 | обнаружен файл 7-2023_02_25_11-29-55-data.json 
+2023-02-25T12:33:35.516314 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.516314 | обнаружен файл 7-2023_02_25_11-59-21-data.json 
+2023-02-25T12:33:35.516314 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.531937 | обнаружен файл 7-2023_02_25_12-01-27-data.json 
+2023-02-25T12:33:35.531937 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.531937 | обнаружен файл 7-2023_02_25_12-22-08-data.json 
+2023-02-25T12:33:35.531937 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.531937 | обнаружен файл 7-2023_02_25_12-28-02-data.json 
+2023-02-25T12:33:35.531937 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.531937 | обнаружен файл 7-2023_02_25_12-30-21-data.json 
+2023-02-25T12:33:35.531937 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.531937 | обнаружен файл 7-2023_02_25_12-31-14-data.json 
+2023-02-25T12:33:35.531937 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.531937 | обнаружен файл 7-2023_02_25_12-32-11-data.json 
+2023-02-25T12:33:35.531937 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.531937 | обнаружен файл 9-2023_02_25_10-32-08-data.json 
+2023-02-25T12:33:35.531937 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.531937 | обнаружен файл 9-2023_02_25_10-32-37-data.json 
+2023-02-25T12:33:35.531937 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.531937 | обнаружен файл 9-2023_02_25_10-33-57-data.json 
+2023-02-25T12:33:35.531937 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.547563 | обнаружен файл 9-2023_02_25_11-03-22-data.json 
+2023-02-25T12:33:35.547563 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.547563 | обнаружен файл 9-2023_02_25_11-30-00-data.json 
+2023-02-25T12:33:35.547563 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.547563 | обнаружен файл 9-2023_02_25_12-28-07-data.json 
+2023-02-25T12:33:35.547563 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:33:35.547563 | обнаружен файл 9-2023_02_25_12-31-19-data.json 
+2023-02-25T12:33:35.547563 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:35:29.664686 | START 
+2023-02-25T12:35:57.573607 | START 
+2023-02-25T12:36:00.575044 | обнаружен файл 1-2023_02_25_12-35-07-data.json 
+2023-02-25T12:36:00.575044 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:36:00.575044 | обнаружен файл 3-2023_02_25_12-35-12-data.json 
+2023-02-25T12:36:00.575044 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:36:00.575044 | обнаружен файл 5-2023_02_25_12-35-17-data.json 
+2023-02-25T12:36:00.575044 | ОШИБКА - Must have exactly one of create/read/write/append mode and at most one plus 
+2023-02-25T12:36:59.271179 | START 
+2023-02-25T12:37:08.416795 | START 
+2023-02-25T12:39:03.493134 | START 
+2023-02-25T12:40:24.113074 | обнаружен файл 1-2023_02_25_12-37-36-data.json 
+2023-02-25T12:41:39.021442 | START 
+2023-02-25T12:41:52.805672 | обнаружен файл 1-2023_02_25_12-37-36-data.json 
+2023-02-25T12:42:29.645240 | 0Объект восстановлен <scratch_1.Article object at 0x000001E8C30D0BB0> 
+2023-02-25T12:42:34.762424 | Данные обработаны! 
+2023-02-25T12:42:49.995733 | START 
+2023-02-25T12:42:53.003721 | обнаружен файл 3-2023_02_25_12-37-42-data.json 
+2023-02-25T12:42:53.003721 | 0Объект восстановлен <scratch_1.Article object at 0x00000217CA8163A0> 
+2023-02-25T12:42:53.003721 | Данные обработаны! 
+2023-02-25T12:42:53.003721 | обнаружен файл 5-2023_02_25_12-37-47-data.json 
+2023-02-25T12:42:53.003721 | 0Объект восстановлен <scratch_1.Article object at 0x00000217CA816430> 
+2023-02-25T12:42:53.003721 | Данные обработаны! 
+2023-02-25T12:42:53.003721 | обнаружен файл 7-2023_02_25_12-37-52-data.json 
+2023-02-25T12:42:53.003721 | 0Объект восстановлен <scratch_1.Article object at 0x00000217CA8163D0> 
+2023-02-25T12:42:53.003721 | Данные обработаны! 
+2023-02-25T12:42:53.003721 | обнаружен файл 9-2023_02_25_12-37-57-data.json 
+2023-02-25T12:42:53.003721 | 0Объект восстановлен <scratch_1.Article object at 0x00000217CA816400> 
+2023-02-25T12:42:53.003721 | Данные обработаны! 
